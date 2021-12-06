@@ -1,2 +1,8 @@
-under the link to Bootstrap's:
-<link rel="stylesheet" href="static/css/style.css">
+body {
+    color: #f7f7f7;
+}
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
